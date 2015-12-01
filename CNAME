@@ -1,1 +1,4 @@
 
+$dig zh.archie.me +nostats +nocomments +nocmd
+;zh.archie.me.                     IN      A
+zh.archie.me.              3592    IN      CNAME   archielim.github.io.
